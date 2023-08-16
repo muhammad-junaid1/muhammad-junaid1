@@ -1,6 +1,6 @@
 ### <p align="center">I'm [Junaid](https://www.linkedin.com/in/muhammad-junaid1/), a friendly React Developer 👨‍💻</p>
 
-<p align="center"><sub>👋 Hi fella, here's a quick peek into my world:</sub></p>
+<p align="center"><sub>👋 Hi fellas, here's a quick peek into my world:</sub></p>
 
 <br/>
 
