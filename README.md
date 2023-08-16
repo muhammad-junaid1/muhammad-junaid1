@@ -62,7 +62,9 @@ Crafting a real estate CRM web app with messaging 💌, real-time updates 🔗, 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a> 
     <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="WebSockets" height="30" /></a> 
    <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="30" /></a> 
-   <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="Sass" height="30" /></a> 
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+ 
+  <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="Sass" height="30" /></a> 
 
 </div>
 
