@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on anything interesting
 - 🎓 Studying Software Engineering at FAST
 
-- 🎉 Fun fact: 
+- 🎉 Fun fact: 😶
 <br/>
 
 ## ⚡ My Skill Set  
