@@ -8,9 +8,9 @@
 - 👦 Entering my 20s
 - 📍  From Islamabad, Pakistan
 - 💻 A self-taught developer
+- 🎓 Studying Software Engineering at FAST
 - 🌱 Learning DSA
 - 👯 Looking to collaborate on anything interesting
-- 🎓 Studying Software Engineering at FAST
 - 🎬 Silicon Valley (2014)
 
 - 🎉 Fun fact: 😶
