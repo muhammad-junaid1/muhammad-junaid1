@@ -11,9 +11,15 @@
 - 🌱 Learning DSA
 - 👯 Looking to collaborate on anything interesting
 - 🎓 Studying Software Engineering at FAST
+- 🎬 Silicon Valley (2014)
 
 - 🎉 Fun fact: 😶
 <br/>
+
+## 👀 At the moment
+Crafting a real estate CRM web app with messaging 💌, real-time updates 🔗, campaigns 🚀, Google Maps 🗺️, and payment magic 💰.
+
+</br>
 
 ## ⚡ My Skill Set  
 <table width="100%"><tr><td valign="top" width="40%">
@@ -64,7 +70,7 @@
 
 <br/>
 
-## Connect with me  
+## 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/muhammad-junaid1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
