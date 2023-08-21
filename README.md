@@ -10,6 +10,7 @@
 - 💻 A self-taught developer
 - 🎓 Studying Software Engineering at FAST
 - 🌱 Learning DSA
+- 👨‍💻 Love the Harvard's CS50
 - 👯 Looking to collaborate on anything interesting
 - 🎬 Silicon Valley (2014)
 
