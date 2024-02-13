@@ -5,16 +5,10 @@
 <br/>
 
 ## 🌟 About Me
-- 👦 Entering my 20s
-- 📍  From Islamabad, Pakistan
-- 💻 A self-taught developer
-- 🎓 Studying Software Engineering at FAST
-- 🌱 Learning DSA
-- 👨‍💻 Love the Harvard's CS50
-- 👯 Looking to collaborate on anything interesting
-- 🎬 Silicon Valley (2014)
-
-- 🎉 Fun fact: 😶
+- Loving TypeScript & React at the moment
+- Learning DSA along the way
+- Trying to come up with new ideas and work on them
+- I'm self-taught 
 <br/>
 
 ## 👀 At the moment
@@ -45,7 +39,7 @@ Crafting a real estate CRM web app with messaging 💌, real-time updates 🔗, 
 
 
 
-### <p align="center">Backend</p>
+### <p align="center">Backend + Database</p>
 <div align="center">  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70px" /></a> 
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60px" /></a>  
@@ -73,15 +67,3 @@ Crafting a real estate CRM web app with messaging 💌, real-time updates 🔗, 
 
 <br/>
 
-## 🤝 Connect with me  
-<div align="center">
-<a href="https://github.com/muhammad-junaid1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/muhammad-junaid1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  <a href="mailto:mjunaid.swe@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%2324292e.svg?&style=for-the-badge&logo=google&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>
-</div> 
