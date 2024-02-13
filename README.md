@@ -1,4 +1,4 @@
-### <p align="center">I'm [Junaid](https://www.linkedin.com/in/muhammad-junaid1/), a friendly Software Developer 👨‍💻</p>
+### <p align="center">I'm [Junaid](https://www.linkedin.com/in/muhammad-junaid1/), a friendly Software Engineer 👨‍💻</p>
 
 <p align="center"><sub>👋 Hi fellas, here's a quick peek into my world:</sub></p>
 
