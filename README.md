@@ -12,7 +12,7 @@
 <br/>
 
 ## 👀 At the moment
-Crafting a real estate CRM web app with messaging 💌, real-time updates 🔗, campaigns 🚀, Google Maps 🗺️, and payment magic 💰.
+Working on a big React project and practicing DSA.
 
 </br>
 
