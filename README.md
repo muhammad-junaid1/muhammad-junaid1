@@ -1,4 +1,4 @@
-### <p align="center">I'm [Junaid](https://www.linkedin.com/in/muhammad-junaid1/), a friendly Software Engineer 👨‍💻</p>
+### <p align="center">I'm [Junaid](https://www.linkedin.com/in/muhammad-junaid1/), a Software Engineer 👨‍💻</p>
 
 <p align="center"><sub>👋 Hi fellas, here's a quick peek into my world:</sub></p>
 
@@ -6,13 +6,13 @@
 
 ## 🌟 About Me
 - Loving TypeScript & React at the moment
-- Learning DSA along the way
 - Trying to come up with new ideas and work on them
-- I'm self-taught 
+- I'm self-taught
+- Exploring Indie Hacking & Startups
 <br/>
 
 ## 👀 At the moment
-Working on a big React project and practicing DSA.
+Working on small software ideas and sharing my journey on socials
 
 </br>
 
